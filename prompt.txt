@@ -1,0 +1,142 @@
+You are an expert academic analyst and exam strategist specializing in B.Tech engineering examinations. I am uploading my RGPV University B.Tech 6th Semester Previous Year Question Papers (PYQs) merged into a single PDF.
+
+Your task is to perform an EXHAUSTIVE, METICULOUS analysis and generate a COMPLETE exam-ready study resource. This will be my ONLY study material, so ZERO errors and MAXIMUM coverage is mandatory.
+
+═══════════════════════════════════════════════════════════════
+                        PHASE 1: DEEP EXTRACTION
+═══════════════════════════════════════════════════════════════
+
+1. **Paper Identification**
+   - Identify each individual paper (year, session - May/Dec, subject code)
+   - Note total marks, time duration, and paper structure
+   - List all sections and their mark distribution
+
+2. **Question Extraction**
+   - Extract EVERY single question from ALL papers
+   - Preserve exact wording - do not paraphrase
+   - Note marks allocated to each question
+   - Identify question type: Theoretical / Numerical / Derivation / Diagram-based / Case Study
+
+═══════════════════════════════════════════════════════════════
+                     PHASE 2: PATTERN ANALYSIS
+═══════════════════════════════════════════════════════════════
+
+3. **Repetition Frequency Matrix**
+   Create a table showing:
+   | Question/Topic | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Total Count | Priority |
+
+   Priority Levels:
+   - 🔴 CRITICAL (4+ times) - 100% will appear
+   - 🟠 HIGH (3 times) - 90% chance
+   - 🟡 MEDIUM (2 times) - 70% chance
+   - 🟢 LOW (1 time) - 40% chance
+
+4. **Unit-wise Weight Distribution**
+   - Calculate percentage of marks from each unit across all papers
+   - Identify which units are MOST and LEAST important
+   - Show trend: Is any unit's importance increasing/decreasing?
+
+5. **Question Type Distribution**
+   - % of Numerical vs Theory vs Derivation vs Diagram
+   - Which types carry more marks?
+
+═══════════════════════════════════════════════════════════════
+                   PHASE 3: STRATEGIC OUTPUT
+═══════════════════════════════════════════════════════════════
+
+6. **UNIT-WISE COMPREHENSIVE BREAKDOWN**
+
+   For EACH unit, provide:
+
+   ┌─────────────────────────────────────────────────────────┐
+   │ UNIT [X]: [UNIT NAME]                                   │
+   │ Overall Weight: [X]% | Predicted Marks: [X]/[Total]     │
+   ├─────────────────────────────────────────────────────────┤
+   │                                                         │
+   │ 🔴 MUST-STUDY TOPICS (Repeated 3+ times):              │
+   │    • Topic 1 - appeared [X] times - [marks range]      │
+   │    • Topic 2 - appeared [X] times - [marks range]      │
+   │                                                         │
+   │ 🔴 GUARANTEED QUESTIONS (Exact repeated questions):    │
+   │    Q1: [Exact question] (Years: 2020, 2022, 2023)      │
+   │    Q2: [Exact question] (Years: 2019, 2021, 2024)      │
+   │                                                         │
+   │ 🟠 HIGH-PROBABILITY QUESTIONS:                         │
+   │    • [Question] - [X] appearances                       │
+   │                                                         │
+   │ 🟡 MEDIUM-PROBABILITY TOPICS:                          │
+   │    • [Topics that appeared twice]                       │
+   │                                                         │
+   │ 📝 IMPORTANT FORMULAS/DERIVATIONS FROM THIS UNIT:      │
+   │    • Formula 1: [formula]                               │
+   │    • Derivation: [name]                                 │
+   │                                                         │
+   │ 📊 NUMERICAL PROBLEMS PATTERN:                         │
+   │    • Type of numericals asked                           │
+   │    • Common values/data given in problems               │
+   │                                                         │
+   │ 🎯 DIAGRAMS FREQUENTLY ASKED:                          │
+   │    • [Diagram names]                                    │
+   └─────────────────────────────────────────────────────────┘
+
+7. **GOLDEN QUESTIONS LIST**
+   - Top 30 questions that are ALMOST CERTAIN to appear
+   - Ranked by probability
+   - Include year references
+
+8. **ONE-DAY-BEFORE-EXAM CHEAT SHEET**
+   - 20 most important points
+   - 10 most repeated formulas
+   - 5 most asked diagrams
+   - 5 most asked derivations
+
+═══════════════════════════════════════════════════════════════
+                    PHASE 4: SMART PREDICTIONS
+═══════════════════════════════════════════════════════════════
+
+9. **PREDICTED QUESTION PAPER**
+   Based on patterns, generate a likely question paper for upcoming exam:
+   - Section A: [Expected short questions]
+   - Section B: [Expected long questions]
+   - Include marks distribution
+
+10. **TOPIC ELIMINATION LIST**
+    - Topics that have NEVER been asked
+    - Topics asked only once in oldest paper (low priority)
+    - Safe to skip if time is limited
+
+═══════════════════════════════════════════════════════════════
+                      OUTPUT REQUIREMENTS
+═══════════════════════════════════════════════════════════════
+
+FORMAT RULES:
+✓ Use tables wherever possible for clarity
+✓ Use emojis for visual priority indication
+✓ Bold all critical information
+✓ Number everything for easy reference
+✓ Keep language simple and direct
+✓ Group related information together
+
+ACCURACY REQUIREMENTS:
+✓ Cross-verify every question extraction
+✓ Double-check repetition counts
+✓ Verify marks for each question
+✓ Ensure no question is missed
+✓ Preserve technical terms exactly
+
+FINAL DELIVERABLE STRUCTURE:
+1. Executive Summary (1 page overview)
+2. Paper-wise Index
+3. Unit-wise Complete Analysis (Main Content)
+4. Golden Questions Compilation
+5. Quick Revision Sheet
+6. Predicted Paper
+7. Safe-to-Skip List
+
+═══════════════════════════════════════════════════════════════
+
+BEGIN ANALYSIS NOW. Take your time. Be thorough. My exam success depends entirely on your accuracy.
+
+Subject Name: Machine Learning
+Semester: 6th
+University: RGPV (Rajiv Gandhi Proudyogiki Vishwavidyalaya)

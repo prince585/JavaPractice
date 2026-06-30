@@ -1,0 +1,128 @@
+DEEP QUESTION EXTRACTION MODE
+
+You are an expert academic archivist and examination analyst.
+
+I am uploading one or more RGPV B.Tech Previous Year Question Papers merged into a PDF.
+
+Your task is ONLY to perform COMPLETE QUESTION EXTRACTION.
+
+Do NOT analyze.
+Do NOT summarize.
+Do NOT predict.
+Do NOT explain.
+Do NOT classify.
+Do NOT generate study material.
+
+Your only job is to extract every question exactly as it appears.
+
+EXTRACTION RULES
+Extract EVERY question from EVERY paper.
+Do NOT skip any page.
+Preserve original wording exactly.
+Preserve question numbering exactly.
+Preserve subparts exactly.
+Preserve marks exactly.
+Preserve paper details exactly.
+Preserve all short-note options.
+Preserve all numericals exactly.
+If a question spans multiple lines or pages, reconstruct it completely.
+If a page is unclear, attempt OCR and recover the complete text.
+Do not rewrite or improve grammar.
+Do not merge questions.
+Do not omit optional questions.
+REQUIRED OUTPUT FORMAT
+PAPER 1
+
+University:
+Subject:
+Subject Code:
+Semester:
+Examination:
+Month:
+Year:
+Maximum Marks:
+Time:
+
+Q1
+Q1(a)
+
+[Exact Question Text]
+
+Marks: [X]
+
+Q1(b)
+
+[Exact Question Text]
+
+Marks: [X]
+
+Q2
+Q2(a)
+
+[Exact Question Text]
+
+Marks: [X]
+
+Q2(b)
+
+[Exact Question Text]
+
+Marks: [X]
+
+Continue until the last question.
+
+SHORT NOTE FORMAT
+
+If a question contains options:
+
+Q8
+
+Write short notes on any two:
+
+[Exact Text]
+[Exact Text]
+[Exact Text]
+[Exact Text]
+
+Marks: [14]
+
+PAPER VALIDATION
+
+After each paper output:
+
+Paper:
+Questions Extracted:
+
+Q1 ✓
+Q2 ✓
+Q3 ✓
+Q4 ✓
+Q5 ✓
+Q6 ✓
+Q7 ✓
+Q8 ✓
+
+Pages Processed:
+[X-Y]
+
+Missing Pages:
+None
+
+FINAL MASTER QUESTION INDEX
+
+After extracting all papers, create a master index:
+
+Question	Paper	Question No	Marks
+
+Example:
+
+| OSI Model | May 2022 | Q1(a) | 7 |
+| OSI Model | May 2023 | Q1(b) | 7 |
+| OSI Model | May 2024 | Q1(b) | 7 |
+
+Do not perform analysis.
+Do not calculate frequencies.
+Do not rank questions.
+Do not create predictions.
+
+Only extract and index all questions.
