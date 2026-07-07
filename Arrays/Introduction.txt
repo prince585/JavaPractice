@@ -1,0 +1,23 @@
+Array = is a list of Elements of same types
+
+
+array = { 1 , 2 , 3 , 4 , 5} // data 
+array = [ 0 , 1 , 2 , 3 , 2] // value index : arrays values index starts with '0'
+
+
+Operations In Array :
+		Creeate
+		Input
+		Output
+		Update
+
+
+	.Creation of Array
+		
+		dataType arrayName[] = new dataType[Size];
+
+		int array[] = new int[5];
+
+		int array[] = {1 , 2 , 3 , 4 , 5};
+
+
