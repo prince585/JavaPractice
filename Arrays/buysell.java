@@ -17,7 +17,8 @@ class buysell {
 			buyprice = prices[i];
 		}
 	}
-		return maxProfit;
+	//output 
+	return maxProfit;
 
 
 	}
