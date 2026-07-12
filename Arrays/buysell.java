@@ -9,6 +9,7 @@ class buysell {
 	for (int i =0; i < prices.length; i++){
 		if(buyprice < prices[i]){
 			int profit = prices[i] - buyprice;
+				// Maximum Profit made
 			maxProfit = Math.max(maxProfit, profit);
 		}
 		else {
