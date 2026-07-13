@@ -11,7 +11,7 @@ class bubbleSort{
 				}
 			}
 		}
-
+			//printitng bubble sorted array with for each loop
 		for(int items : arr){
 			System.out.println(items);
 		}
