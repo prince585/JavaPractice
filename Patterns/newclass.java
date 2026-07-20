@@ -4,7 +4,7 @@ class newclass {
 
 		int arr[] = {1,3,4,6,8,7};
 
-		// maximux profit will be here in this variable
+		
 		int maxProfit = 0;
 		int profit = 0;
 		int buyprice = 2;
