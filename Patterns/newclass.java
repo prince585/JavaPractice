@@ -14,7 +14,7 @@ class newclass {
 				maxProfit = profit;
 			}
 		}
-
+		// the output of total final profit
 		System.out.println(maxProfit);
 
 
